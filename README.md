@@ -2,6 +2,8 @@
 
 A modern, interactive LaTeX workspace with AI-powered assistance for academic writing and document preparation.
 
+**Live Demo:** [https://ihatesea69.github.io/nghilatex/](https://ihatesea69.github.io/nghilatex/)
+
 ## Overview
 
 NghiLaTeX is a browser-based LaTeX editor that demonstrates an AI-assisted workflow for academic document creation. It features a clean, Overleaf-inspired interface with real-time preview, intelligent suggestions, and seamless document navigation.
@@ -51,7 +53,7 @@ NghiLaTeX is a browser-based LaTeX editor that demonstrates an AI-assisted workf
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nghilatex.git
+git clone https://github.com/ihatesea69/nghilatex.git
 cd nghilatex
 ```
 
@@ -62,6 +64,8 @@ cd nghilatex
 python -m http.server 8000
 # Then navigate to http://localhost:8000
 ```
+
+Or visit the live demo: [https://ihatesea69.github.io/nghilatex/](https://ihatesea69.github.io/nghilatex/)
 
 ### Usage
 
@@ -204,7 +208,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: https://github.com/yourusername/nghilatex
+Project Link: [https://github.com/ihatesea69/nghilatex](https://github.com/ihatesea69/nghilatex)
+
+Live Demo: [https://ihatesea69.github.io/nghilatex/](https://ihatesea69.github.io/nghilatex/)
 
 ## Roadmap
 
